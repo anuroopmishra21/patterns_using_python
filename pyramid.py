@@ -1,4 +1,4 @@
-# printing a pyramid triangle
+# printing a pyramid triangle of asteriks
 x= int(input("Enter the no. of rows: "))
 m=x-1
 for i in range(0,x):
