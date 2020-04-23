@@ -1,5 +1,5 @@
 # diamond pattern using python
-x= int(input("Enter the no. of rows: "))
+x= int(input("Enter the width of the diamond "))
 m=x-1
 for i in range(0,x):
     for k in range(0,m):
