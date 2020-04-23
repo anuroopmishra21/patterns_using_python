@@ -1,1 +1,1 @@
-# Python codes for beginners
+# Patterns using python practice repository
