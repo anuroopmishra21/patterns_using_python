@@ -17,4 +17,4 @@ for i in range(0,x-1):
         print("*", end=' ')
     print("\r")
     m=m+1
-    y=y-1s
+    y=y-1
